@@ -28,7 +28,7 @@ const ADMIN_USER = { username: 'ellie', password: 'alien20xi3300' };
 const allowedOrigins = [
     'http://localhost:3000',
     'https://ellie-portfolio-frontend.liara.run',
-    'https://sammehrany.com'
+    'https://ellieayyar.com' 
 ];
 
 app.use(cors({
