@@ -22,7 +22,7 @@ if (!fs.existsSync(dataDir)) {
 
 // --- Config ---
 const JWT_SECRET = 'your-super-secret-key-that-is-long-and-random';
-const ADMIN_USER = { username: 'sam', password: 'alien20xi3300' };
+const ADMIN_USER = { username: 'ellie', password: 'alien20xi3300' };
 
 // --- Middleware Setup ---
 const allowedOrigins = [
